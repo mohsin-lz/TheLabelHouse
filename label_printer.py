@@ -47,6 +47,7 @@ LABEL_PRESETS = {
     "2×1 inch – Barcode/Price Tag":          (2.0, 1.0),
     "3.5×1 inch – File/Box Label":           (3.5, 1.0),
     "A4 Full Page":                          (8.27, 11.69),
+    "TCS Label 01":                          (3.25, 1.00),
     "Custom…":                               None,
 }
 

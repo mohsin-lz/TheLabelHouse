@@ -1,0 +1,6 @@
+Create a simple label printing app( python .exe) which has features such as drag and drop, add and edit text and give me print button. Use win32print to print the canvas. I've attached the label size in the image format. Create a pixel perfect canvas ( example: if the text in canvas is at center) then the label print should have the text in center. 
+
+
+
+The image has 2 labels in 1 row. Each label has a size of 38mmx25mm.  There is no gap between 2 horizontal labels but in vertical case, the labels has a gap of 3mm. Keep this in account and PLEASE MAKE NO MISTAKE
+
